@@ -9,7 +9,7 @@ kakaopay
 5. swagger2
 
 #swagger를 통한 api 확인가능
-url : http://localhost:8080/swagger-ui.htm
+url : http://localhost:8080/swagger-ui.html
 
 #토큰 생성
 random하게 생성
